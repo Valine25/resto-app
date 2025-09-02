@@ -23,7 +23,7 @@ export default function Navbar() {
             );
           })}
         </div>
-        <button className="menubtn">OUR MENU</button>
+        <button className="menuBtn">OUR MENU</button>
       </div>
       <div className="hamburger" onClick={()=> setShow(!show)}>
         <GiHamburgerMenu/>
