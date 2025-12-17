@@ -1,12 +1,33 @@
-# React + Vite
+# 🍽️ Restaurant Booking App (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and user-friendly **Restaurant Booking Application** built using **React** that allows users to view restaurants and book tables seamlessly. The application focuses on clean UI, smooth user experience, and component-based architecture.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-## Expanding the ESLint configuration
+##  Tech Stack
+- **Frontend:** React.js
+- **Styling:** CSS
+- **State Management:** React Hooks (`useState`, `useEffect`)
+- **Version Control:** Git & GitHub
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+
+
+##  Screenshots
+
+###  Home Page
+![Home Page](Screenshots/Home.png)
+
+###  Menu Page
+![Menu Page](Screenshots/Menu.png)
+
+###  Dishes 
+![Dishes Page](Screenshots/Dishes.png)
+
+###  Reservation Booking 
+![Reservation Page](Screenshots/Reservation.png)
+
+---
+
